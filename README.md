@@ -17,11 +17,11 @@ Repository where I compile genuine tips I have to give
 - [carykh](https://www.youtube.com/user/carykh/videos)
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/videos)
 - [CodeParade](https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw/videos)
-- [Primer](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg)
-- [Wolfgang's channel](https://www.youtube.com/user/McBacon1337/videos)
 - [Two Minutes Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg/videos)
-- [Game Maker's Toolkit](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg/videos)
-- [Randy](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ/videos)
+- [Wolfgang's channel](https://www.youtube.com/channel/UCsnGwSIHyoYN0kiINAGUKxg/videos)
+- [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ/videos)
+- [Randy](https://www.youtube.com/channel/UCUmLRMERmJrmUtgnbFfknAg)
+- [Game Maker's Toolkit](https://www.youtube.com/user/McBacon1337/videos)
 - [munimuni](https://www.youtube.com/watch?v=L4f6KGgX4xI)
 
 ## 
