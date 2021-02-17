@@ -2,6 +2,11 @@
 Repository where I compile genuine tips I have to give
 
 - 2021/02/17 vivaldi has very low ram consumption and is very performant. 10 youtube tabs use around 1.3gb of ram. it's also a very customizable browser with lots of features, such as tab stacks, and it supports chrome extensions.
+- 2021/02/17 github files and gists can be modified right in the browser. very useful when your repository consists of only a readme (such as this one) or is a single script.
+- 2021/02/17 adblockers such as ublock origin allow you to make your own rules to omit elements from a page. the syntax is a extended version of css selectors that allows you to filter elements based on the content (using text or regex), and to remove a specific parent element if the child matches.
+  - syntax: `site1.com, site2.com #?# parent, child:-abp-contains(/keyword/)`
+  - example: `youtube.com #?# ytd-rich-item-renderer, #video-title-link > .ytd-rich-grid-media.style-scope:-abp-contains(/hololive|reaction/)` will filter videos (ytd-rich-item-renderer) on youtube.com when their titles contains "hololive" or "reaction"
+  - if you want to filter for multiple keywords, i recommend using regex `/keyword1|keyword2|keyword3/` instead of creating one filter per keyword, it's much more performant
 
 ## chrome extensions
 
