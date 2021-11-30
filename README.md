@@ -10,9 +10,20 @@ Repository where I compile genuine tips I have to give
 - 2021/02/17 there are custom adblock filters online, such as in filterslists.com. keep in mind that some might break websites and some are too big and heavy to be useful
 - 2021/02/17 if you are already used to programming, cheatsheets for new languages and libraries and areas can be much more useful than courses and tutorials. for example, cheatsheets on python, pandas library, data science.
 
+- big torrent sites tend to offer rss feeds of the most recent torrents. sometimes, they offer rss feeds for your custom search. torrent apps can subscribe to those feeds and for example automatically download new episodes once they are out, all according to the keywords you choose. the torrents apps are smart enough to not download the same episode twice.
+- not so known google search tricks
+  - `after:2020`
+  - `2015..2020`
+  - or operator: `( chocolate | carrot ) cake`
+  - wildcards: `easy * cake recipe` should find "easy chocolate cake recipe", "easy carrot cake recipe", "easy strawberry cake recipe" and so on
+  - making google actually work: `site:reddit.com` (ps: when using this one, take care with bro science, conspiracies and misinformation)
+  - remove pinterest results from serach: `-site:pinterest.com`
+  - `related:github.com`
+
 ## chrome extensions
 
 - 2021/02/17 [Relative Reddit](https://chrome.google.com/webstore/detail/relative-reddit/lkkanogkeefbgmcjihgjmcginkjamkfp): scores reddit comments relative to their parent comments. this makes threads muuuch more readable, easier to find the good content. a similar feature is available on Reddit Enhancement Suite.
+- DeepSearch: ctrl+f with regex
 
 ## computer science youtube channels
 
